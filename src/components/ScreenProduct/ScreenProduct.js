@@ -11,8 +11,8 @@ const ScreenProduct = ({ navigation }) => {
   return (
     < >
       <Button
-        onPress={() => navigation.navigate('Details')}
-        title='go to detail'
+        onPress={() => navigation.navigate('Profile')}
+        title='go to profile'
         style={styles.buttonBack}> Back
       </Button>
      

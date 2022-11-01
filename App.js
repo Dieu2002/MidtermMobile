@@ -1,7 +1,7 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 import ScreenProduct from './src/components/ScreenProduct/ScreenProduct';
-import ScreenDetail from './src/components/ScreenDetail/ScreenDetail';
+import ScreenDetail from './src/components/ScreenDetails/ScreenDetail';
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator  } from '@react-navigation/native-stack';

@@ -9,16 +9,13 @@ import AllProduct from '../ScreenProduct/AllProducts';
 const ScreenDetail = () => {
   return (
     <View style={styles.detail}>
-     <AllProduct/>
+     <Profile/>
     </View>
-    
   );
 };
 const styles = StyleSheet.create({
 
-  detail: {
-
-  }
+  
 
 });
 
